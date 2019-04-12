@@ -1,5 +1,5 @@
 :root {
-	--accent-color: #353535;
+	--accent-color: #494949;
 	--accent-rgb: rgba(47,218,98,0.3);
 	--alt-accent: #5680d4;
 	--alert-color: #f04747;
@@ -36,7 +36,7 @@
 }
 
 ::selection {
-	background: rgba(47,218,98,0.5);
+	background: rgba(73,73,73,0.5);
 	color: #fff !important;
 	text-shadow: none;
 }
